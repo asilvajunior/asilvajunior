@@ -8,7 +8,7 @@ I work as a consultant and cloud architect, helping companies to adopt tools tha
 
 -   💻 I’m currently working as **Team Leader at Solo Network**
 -   🧐 Interested in everything **Cloud Computing and DevOps**
--   📝 I regularly write articles on (http://www.unicastlab.com.br)
+-   📝 I regularly write articles on (http://www.unicast.com.br)
 -   🌱 Currently learning **Terraform**
 -   💬 Ask me about **Azure, DevOps, Linux and Terraform**
 
