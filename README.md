@@ -6,7 +6,7 @@ I work as a consultant and cloud architect, helping companies to adopt tools tha
 
 ##
 
--   💻 I’m currently working as **Team Leader at Solo Network**
+-   💻 I’m currently working as **DevOps Tech Lead at Solo Network**
 -   🧐 Interested in everything **Cloud Computing and DevOps**
 -   📝 I regularly write articles on (http://www.unicast.com.br)
 -   🌱 Currently learning **Terraform**
