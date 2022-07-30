@@ -1,0 +1,20 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 8 * * *' # Runs every day at 8am
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in latest posts from Unicast
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "Unicast"
+          commit_message: "Workflow updated readme with the latest blog post data"
+          feed_list: "https://unicast.com.br/feed.xml"
+          max_post_count: 10
