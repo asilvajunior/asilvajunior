@@ -25,7 +25,11 @@ I work as a consultant and cloud architect, helping companies to adopt tools tha
 ### Latest from the blog:
 
 <!-- Unicast:START -->
-
+- [7 dicas para manter o trabalho remoto saudável e eficiente.](https://unicast.com.br/posts/7-dicas-para-manter-o-trabalho-remoto-saudavel-e-eficiente/)
+- [[Homelab] #2 Update do ambiente](https://unicast.com.br/posts/homelab-2-update-do-ambiente/)
+- [Entendendo o fluxo de roteamento no Azure](https://unicast.com.br/posts/entendendo-o-fluxo-de-roteamento-no-azure/)
+- [Configurando VPN Site to Site com Azure e MikroTik [CLI-Only]](https://unicast.com.br/posts/configurando-vpn-site-to-site-com-azure-e-mikrotik-cli-only/)
+- [[Homelab] #1 Update do ambiente](https://unicast.com.br/posts/homelab-1-update-do-ambiente/)
 <!-- Unicast:END -->
 
 ### Languages and Tools:
