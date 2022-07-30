@@ -22,6 +22,12 @@ I work as a consultant and cloud architect, helping companies to adopt tools tha
   <a href="https://www.instagram.com/unicastlab/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+### Latest from the blog:
+
+<!-- Unicast:START -->
+
+<!-- Unicast:END -->
+
 ### Languages and Tools:
     
 ![AZURE](https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=flat&logo=MicrosoftAzure&logoColor=white) 
@@ -40,12 +46,6 @@ I work as a consultant and cloud architect, helping companies to adopt tools tha
   <a href="https://github.com/asilvajunior">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=asilvajunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </p>
-
-</details>
-    
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/asilvajunior/asilvajunior"></a>
-</p>
 
  <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
