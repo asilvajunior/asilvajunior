@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/images/unicast_logo.jpg">
+<img src="assets/images/unicast_logo.png">
 </p>
 
 ## Hi there 👋
