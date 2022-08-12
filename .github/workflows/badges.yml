@@ -3,7 +3,7 @@ name: Update badges
 on:
   schedule:
     # Runs at 0am UTC every day
-    - cron: "06 15 * * *"
+    - cron: "15 15 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -12,7 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "My commit message to update badges"
           CREDLY_USER: asilva-jr
-          CREDLY_SORT: POPULAR
+          CREDLY_SORT: RECENT
+          BADGE_SIZE: 96
