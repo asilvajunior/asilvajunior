@@ -43,10 +43,6 @@ I'm Antonio Junior working as a DevOps Engineer with an obsession in Cloud, DevO
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=asilvajunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
 
- <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
 <p align="center">
  <a href="AZURE"><img src="https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=flat&logo=MicrosoftAzure&logoColor=white"></a>
  <a href="LINUX"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000"></a>
@@ -54,3 +50,8 @@ I'm Antonio Junior working as a DevOps Engineer with an obsession in Cloud, DevO
  <a href="KUBERNETES"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=3C93FF"></a>
  <a href="TERRAFORM"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white"></a>
 </p>
+
+ <p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
