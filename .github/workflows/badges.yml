@@ -3,7 +3,9 @@ name: Update badges
 on:
   schedule:
     # Runs at 0am UTC every day
-    - cron: "15 15 * * *"
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
 jobs:
   update-readme:
     name: Update Readme with badges
