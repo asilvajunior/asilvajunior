@@ -1,3 +1,7 @@
+<p align="center">
+<img src="assets/images/unicast_logo.png">
+</p>
+
 ## Hi there 👋
 
 I'm Antonio Junior working with technology since 2004 and I am passionate about the way my profession can be applied to change people's lives.
