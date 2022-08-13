@@ -34,6 +34,7 @@ I'm Antonio Junior working as a DevOps Engineer with an obsession in Cloud, DevO
   <summary> Certificates & Trainings</summary>
 
 <!--START_SECTION:badges-->
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/96x96/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/71b9bc65-7c23-4de6-95ab-c09a267c8c6c "KCNA: Kubernetes and Cloud Native Associate")
 [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/96x96/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/d2364f7c-76a7-44a9-96d8-767c0023a1e7 "HashiCorp Certified: Terraform Associate (002)")
 [![Microsoft Certified Trainer 2022-2023](https://images.credly.com/size/96x96/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png)](http://www.credly.com/badges/fe110a6b-22ec-4e72-b843-ff5906784ae8 "Microsoft Certified Trainer 2022-2023")
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/96x96/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/452f6255-0d41-488b-987f-0785f8e3d500 "Microsoft Certified: Azure Network Engineer Associate")
