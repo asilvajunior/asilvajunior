@@ -21,11 +21,11 @@ I'm Antonio Junior working as a DevOps Engineer with an obsession in Cloud, DevO
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Configurando Azure DDoS Protection](https://unicast.com.br/posts/configurando-azure-ddos-protection/)
 - [[Book] Human Soft Skills - Habilidades e Capital Humano para uma Carreira de Sucesso](https://unicast.com.br/posts/book-human-skills/)
 - [[Exam-Prep] Kubernetes and Cloud Native Associate &lpar;KCNA&rpar;](https://unicast.com.br/posts/exam-prep-kcna-kubernetes-cloud-native/)
 - [7 dicas para manter o trabalho remoto saudável e eficiente](https://unicast.com.br/posts/7-dicas-para-manter-o-trabalho-remoto-saudavel-e-eficiente/)
 - [[Homelab] #2 Update do ambiente](https://unicast.com.br/posts/homelab-2-update-do-ambiente/)
-- [Entendendo o fluxo de roteamento no Azure](https://unicast.com.br/posts/entendendo-o-fluxo-de-roteamento-no-azure/)
 <!-- Unicast:END -->
 
 ###
