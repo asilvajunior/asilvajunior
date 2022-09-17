@@ -34,6 +34,8 @@ I'm Antonio Junior working as a DevOps Engineer with an obsession in Cloud, DevO
   <summary> Certificates & Trainings</summary>
 
 <!--START_SECTION:badges-->
+[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/96x96/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/479c5e70-6b2f-4467-aa41-95df5505c670 "Microsoft Certified: DevOps Engineer Expert")
+[![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/96x96/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/d8fcbb82-7921-4f12-acc8-e33fcf5a0b48 "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![(ISC)² Candidate](https://images.credly.com/size/96x96/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png)](http://www.credly.com/badges/f7ad90fe-d7f2-40d4-9e0f-232b4f57f50c "(ISC)² Candidate")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/96x96/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/71b9bc65-7c23-4de6-95ab-c09a267c8c6c "KCNA: Kubernetes and Cloud Native Associate")
 [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/96x96/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/d2364f7c-76a7-44a9-96d8-767c0023a1e7 "HashiCorp Certified: Terraform Associate (002)")
