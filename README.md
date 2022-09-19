@@ -21,11 +21,11 @@ I'm Antonio Junior working as a DevOps Engineer with an obsession in Cloud, DevO
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [[Book] Kubernetes Básico](https://unicast.com.br/posts/book-kubernetes-basico/)
 - [[Exam-Prep] AZ-400 DevOps Engineer Expert](https://unicast.com.br/posts/exam-prep-az-400-devops-engineer-expert/)
 - [Cluster Kubernetes Raspberry PI com Kubeadm e Containerd](https://unicast.com.br/posts/cluster-kubernetes-raspberry-pi-com-kubeadm-containerd/)
 - [[Homelab] #3 Update do ambiente](https://unicast.com.br/posts/homelab-3-update-do-ambiente/)
 - [Configurando Azure DDoS Protection](https://unicast.com.br/posts/configurando-azure-ddos-protection/)
-- [[Book] Human Soft Skills - Habilidades e Capital Humano para uma Carreira de Sucesso](https://unicast.com.br/posts/book-human-skills/)
 <!-- Unicast:END -->
 
 ###
