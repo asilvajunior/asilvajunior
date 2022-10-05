@@ -40,7 +40,7 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
   <summary> Certificates & Trainings</summary>
 
 <!--START_SECTION:badges-->
-[![Essentials for Istio by Solo.io](https://images.credly.com/size/96x96/images/d6cc7ae8-4add-4346-bdf7-72affdd2d04d/Solo_Workshop_Badge_050521_v5.png)](http://www.credly.com/badges/0e6b433f-aae5-4f85-8fc3-5f2240ec7496 "Essentials for Istio by Solo.io")
+[![Intermediate for Istio by Solo.io](https://images.credly.com/size/96x96/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png)](http://www.credly.com/badges/0e6b433f-aae5-4f85-8fc3-5f2240ec7496 "Intermediate for Istio by Solo.io")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/96x96/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/479c5e70-6b2f-4467-aa41-95df5505c670 "Microsoft Certified: DevOps Engineer Expert")
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/96x96/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/d8fcbb82-7921-4f12-acc8-e33fcf5a0b48 "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![(ISC)² Candidate](https://images.credly.com/size/96x96/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png)](http://www.credly.com/badges/f7ad90fe-d7f2-40d4-9e0f-232b4f57f50c "(ISC)² Candidate")
