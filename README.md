@@ -34,12 +34,6 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 - [[Exam-Prep] AZ-400 DevOps Engineer Expert](https://unicast.com.br/posts/exam-prep-az-400-devops-engineer-expert/)
 <!-- Unicast:END -->
 
-### Recent Activities:
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ###
 
 <details>
