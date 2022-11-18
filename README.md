@@ -30,8 +30,8 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 - [Autenticação sem senha com Azure AD e chave Yubikey &lpar;FIDO2&rpar;](https://unicast.com.br/posts/autenticacao-sem-senha-com-azure-ad-e-chave-yubikey-fid02/)
 - [Criando DevContainer Terraform para Azure no VS Code](https://unicast.com.br/posts/criando-devcontainer-terraform-para-azure-no-vs-code/)
 - [Sindrome de FOMO &lpar;Fear of missing out&rpar;](https://unicast.com.br/posts/sindrome-de-fomo-fear-of-missing-out/)
-- [[Book] Kubernetes Básico](https://unicast.com.br/posts/book-kubernetes-basico/)
 - [[Exam-Prep] AZ-400 DevOps Engineer Expert](https://unicast.com.br/posts/exam-prep-az-400-devops-engineer-expert/)
+- [[Book] Kubernetes Básico](https://unicast.com.br/posts/book-kubernetes-basico/)
 <!-- Unicast:END -->
 
 ###
