@@ -27,11 +27,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Criando alerta de previsão de gastos no Azure](https://unicast.com.br/posts/criando-alerta-de-previsao-de-gastos-no-azure/)
 - [[Book] Cloud Native Infrastructure with Microsoft Azure](https://unicast.com.br/posts/book-cloud-native-infrastructure-with-microsoft-azure/)
 - [Utilizando Infracost para estimar custos no Azure com Terraform](https://unicast.com.br/posts/utilizando-infracost-para-estimar-custos-no-azure-com-terraform/)
 - [Autenticação sem senha com Azure AD e chave Yubikey &lpar;FIDO2&rpar;](https://unicast.com.br/posts/autenticacao-sem-senha-com-azure-ad-e-chave-yubikey-fid02/)
 - [Criando DevContainer Terraform para Azure no VS Code](https://unicast.com.br/posts/criando-devcontainer-terraform-para-azure-no-vs-code/)
-- [Sindrome de FOMO &lpar;Fear of missing out&rpar;](https://unicast.com.br/posts/sindrome-de-fomo-fear-of-missing-out/)
 <!-- Unicast:END -->
 
 ###
