@@ -27,11 +27,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Criando uma conta gratuita no Azure](https://unicast.com.br/posts/criando-uma-conta-gratuita-no-azure/)
 - [[Azure-To] #9 Configurar Azure App Service [Portal]](https://unicast.com.br/posts/azure-to-9-configurar-azure-app-service-portal/)
 - [Criando alerta de previsão de gastos no Azure](https://unicast.com.br/posts/criando-alerta-de-previsao-de-gastos-no-azure/)
 - [[Book] Cloud Native Infrastructure with Microsoft Azure](https://unicast.com.br/posts/book-cloud-native-infrastructure-with-microsoft-azure/)
 - [Utilizando Infracost para estimar custos no Azure com Terraform](https://unicast.com.br/posts/utilizando-infracost-para-estimar-custos-no-azure-com-terraform/)
-- [Autenticação sem senha com Azure AD e chave Yubikey &lpar;FIDO2&rpar;](https://unicast.com.br/posts/autenticacao-sem-senha-com-azure-ad-e-chave-yubikey-fid02/)
 <!-- Unicast:END -->
 
 ###
