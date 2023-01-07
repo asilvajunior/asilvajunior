@@ -40,6 +40,7 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
   <summary> Certificates & Trainings</summary>
 
 <!--START_SECTION:badges-->
+[![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/96x96/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](http://www.credly.com/badges/9d5834d4-06d4-4bf3-9319-c95a72887059 "Microsoft Certified Trainer 2023-2024")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/96x96/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/1a6c654c-8f49-42e3-a512-48f0da49166d "Microsoft Certified: DevOps Engineer Expert")
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/96x96/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/dd3eaac9-6aeb-4227-b2f4-2cad595e9f0c "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/96x96/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/71b9bc65-7c23-4de6-95ab-c09a267c8c6c "KCNA: Kubernetes and Cloud Native Associate")
