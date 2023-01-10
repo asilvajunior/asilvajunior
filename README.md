@@ -27,7 +27,7 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
-- [[Azure-To] #10 Configurar DNS privado com registro automático [Portal]](https://unicast.com.br/posts/azure-to-10-configurar-dns-privado-com-registro-automatico-portal/)
+- [Utilizando a calculadora de custos do Azure](https://unicast.com.br/posts/utilizando-a-calculadora-de-custos-do-azure/)
 - [Protegendo recursos com Azure Locks](https://unicast.com.br/posts/protegendo-recursos-com-azure-locks/)
 - [Diferenças entre Blob Storage e Azure Files](https://unicast.com.br/posts/diferencas-entre-blob-storage-e-azure-files/)
 - [Criando uma conta gratuita no Azure](https://unicast.com.br/posts/criando-uma-conta-gratuita-no-azure/)
