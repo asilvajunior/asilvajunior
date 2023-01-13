@@ -27,11 +27,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Utilizando a calculadora de TCO do Azure](https://unicast.com.br/posts/utilizando-a-calculadora-de-tco-do-azure/)
 - [Utilizando a calculadora de custos do Azure](https://unicast.com.br/posts/utilizando-a-calculadora-de-custos-do-azure/)
+- [[Azure-To] #10 Configurar DNS privado com registro automático [Portal]](https://unicast.com.br/posts/azure-to-10-configurar-dns-privado-com-registro-automatico-portal/)
 - [Protegendo recursos com Azure Locks](https://unicast.com.br/posts/protegendo-recursos-com-azure-locks/)
 - [Diferenças entre Blob Storage e Azure Files](https://unicast.com.br/posts/diferencas-entre-blob-storage-e-azure-files/)
-- [Criando uma conta gratuita no Azure](https://unicast.com.br/posts/criando-uma-conta-gratuita-no-azure/)
-- [[Azure-To] #9 Configurar Azure App Service [Portal]](https://unicast.com.br/posts/azure-to-9-configurar-azure-app-service-portal/)
 <!-- Unicast:END -->
 
 ###
