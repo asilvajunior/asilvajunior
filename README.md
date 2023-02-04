@@ -40,6 +40,7 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
   <summary> Certificates & Trainings</summary>
 
 <!--START_SECTION:badges-->
+[![Microsoft Certified: Azure Support Engineer for Connectivity Specialty](https://images.credly.com/size/96x96/images/963586bb-5903-400b-9b0a-33ebcf7f4313/image.png)](http://www.credly.com/badges/10c3ecf9-3c5b-495f-88f6-8d7e7e5edce9 "Microsoft Certified: Azure Support Engineer for Connectivity Specialty")
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/96x96/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](http://www.credly.com/badges/9514f85e-99d4-42a6-ad9b-76ad41abe001 "Microsoft Certified Trainer 2023-2024")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/96x96/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/2f4cfd3a-c155-4604-b2a6-65646d592897 "Microsoft Certified: DevOps Engineer Expert")
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/96x96/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/2a5c30e1-0b0e-43d5-a95f-322537dd55da "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
