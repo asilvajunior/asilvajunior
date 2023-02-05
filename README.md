@@ -27,11 +27,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [[Exam-Prep] AZ-720 Troubleshooting Microsoft Azure Connectivity](https://unicast.com.br/posts/exam-prep-az-720-troubleshooting-microsoft-azure-connectivity/)
 - [[Azure-To] #12 Configurar Network Security Group &lpar;NSG&rpar; [Portal]](https://unicast.com.br/posts/azure-to-12-configurar-network-security-group-nsg-portal/)
 - [Difenrenças entre: Load Balancer, Application Gateway, Front Door e Traffic Manager](https://unicast.com.br/posts/diferencas-entre-loadbalancer-applicationgateway-frontdoor-e-trafficmanager/)
 - [Os 5 mandamentos do Arquiteto de Nuvem Azure](https://unicast.com.br/posts/os-5-mandamentos-do-arquiteto-de-nuvem-azure/)
 - [Utilizando a calculadora de TCO do Azure](https://unicast.com.br/posts/utilizando-a-calculadora-de-tco-do-azure/)
-- [[Azure-To] #11 Configurar Virtual Network &lpar;VNET&rpar; [Portal]](https://unicast.com.br/posts/azure-to-11-configurar-virtual-network-vnet-portal/)
 <!-- Unicast:END -->
 
 ###
