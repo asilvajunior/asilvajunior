@@ -29,9 +29,9 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 <!-- Unicast:START -->
 - [Overview Azure Virtual Machine Scale Sets e Amazon EC2 Auto Scaling](https://unicast.com.br/posts/overview-azure-virtual-machine-scale-sets-e-amazon-ec2-auto-scaling/)
 - [[Exam-Prep] AZ-720 Troubleshooting Microsoft Azure Connectivity](https://unicast.com.br/posts/exam-prep-az-720-troubleshooting-microsoft-azure-connectivity/)
+- [[Azure-To] #14 Configurar Azure Key Vault [Portal]](https://unicast.com.br/posts/azure-to-14-configurar-azure-key-vault-portal/)
 - [[Azure-To] #13 Configurar Azure Functions [Portal]](https://unicast.com.br/posts/azure-to-13-configurar-azure-functions-portal/)
 - [[Azure-To] #12 Configurar Network Security Group &lpar;NSG&rpar; [Portal]](https://unicast.com.br/posts/azure-to-12-configurar-network-security-group-nsg-portal/)
-- [Difenrenças entre: Load Balancer, Application Gateway, Front Door e Traffic Manager](https://unicast.com.br/posts/diferencas-entre-loadbalancer-applicationgateway-frontdoor-e-trafficmanager/)
 <!-- Unicast:END -->
 
 ###
