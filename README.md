@@ -27,11 +27,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [[Azure-To] #17 Configurar Azure Private Link Service](https://unicast.com.br/posts/azure-to-17-configurar-azure-private-link-service/)
+- [[Azure-To] #16 Criando Azure Policy [Portal]](https://unicast.com.br/posts/azure-to-16-criando-azure-policy-portal/)
 - [Overview Azure Virtual Machine Scale Sets e Amazon EC2 Auto Scaling](https://unicast.com.br/posts/overview-azure-virtual-machine-scale-sets-e-amazon-ec2-auto-scaling/)
 - [[Azure-To] #15 Configurar Azure Container Instances [Portal]](https://unicast.com.br/posts/azure-to-15-configurar-azure-container-instances-portal/)
 - [[Exam-Prep] AZ-720 Troubleshooting Microsoft Azure Connectivity](https://unicast.com.br/posts/exam-prep-az-720-troubleshooting-microsoft-azure-connectivity/)
-- [[Azure-To] #14 Configurar Azure Key Vault [Portal]](https://unicast.com.br/posts/azure-to-14-configurar-azure-key-vault-portal/)
-- [[Azure-To] #13 Configurar Azure Functions [Portal]](https://unicast.com.br/posts/azure-to-13-configurar-azure-functions-portal/)
 <!-- Unicast:END -->
 
 ###
