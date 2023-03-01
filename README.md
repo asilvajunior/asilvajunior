@@ -27,11 +27,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Multi-Cloud é tudo isso, uma abordagem sincera!](https://unicast.com.br/posts/multi-cloud-e-tudo-isso-uma-abordagem-sincera/)
 - [[Azure-To] #17 Configurar Azure Private Link Service [Portal]](https://unicast.com.br/posts/azure-to-17-criando-azure-private-link-service-portal/)
 - [[Azure-To] #16 Criando Azure Policy [Portal]](https://unicast.com.br/posts/azure-to-16-criando-azure-policy-portal/)
 - [Overview Azure Virtual Machine Scale Sets e Amazon EC2 Auto Scaling](https://unicast.com.br/posts/overview-azure-virtual-machine-scale-sets-e-amazon-ec2-auto-scaling/)
 - [[Azure-To] #15 Configurar Azure Container Instances [Portal]](https://unicast.com.br/posts/azure-to-15-configurar-azure-container-instances-portal/)
-- [[Exam-Prep] AZ-720 Troubleshooting Microsoft Azure Connectivity](https://unicast.com.br/posts/exam-prep-az-720-troubleshooting-microsoft-azure-connectivity/)
 <!-- Unicast:END -->
 
 ###
