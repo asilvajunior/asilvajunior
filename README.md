@@ -27,8 +27,8 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Como organizar projetos de Terraform [Azure]](https://unicast.com.br/posts/como-organizar-projetos-de-terraform-azure/)
 - [[Azure-To] #18 Automatizando Exclusão de Resource Group com Tags [Portal]](https://unicast.com.br/posts/azure-to-18-automacao-com-tags1/)
-- [Multi-Cloud é tudo isso, uma abordagem sincera!](https://unicast.com.br/posts/multi-cloud-e-tudo-isso-uma-abordagem-sincera/)
 - [[Azure-To] #17 Configurar Azure Private Link Service [Portal]](https://unicast.com.br/posts/azure-to-17-criando-azure-private-link-service-portal/)
 - [[Azure-To] #16 Criando Azure Policy [Portal]](https://unicast.com.br/posts/azure-to-16-criando-azure-policy-portal/)
 - [Overview Azure Virtual Machine Scale Sets e Amazon EC2 Auto Scaling](https://unicast.com.br/posts/overview-azure-virtual-machine-scale-sets-e-amazon-ec2-auto-scaling/)
