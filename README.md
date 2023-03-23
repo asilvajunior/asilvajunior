@@ -27,11 +27,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [[Azure-To] #19 Monitorando Azure com Grafana [Portal]](https://unicast.com.br/posts/azure-to-19-monitorando-com-grafana1/)
 - [Diferença entre Infrastructure as Code &lpar;IaC&rpar; e Configuration Management &lpar;CM&rpar;](https://unicast.com.br/posts/diferencas-entre-infrastructure-as-code-iac-e-configuration-management-cm/)
 - [Como organizar projetos de Terraform [Azure]](https://unicast.com.br/posts/como-organizar-projetos-de-terraform-azure/)
 - [[Azure-To] #18 Automatizando Exclusão de Resource Group com Tags [Portal]](https://unicast.com.br/posts/azure-to-18-automacao-com-tags1/)
 - [[Azure-To] #17 Configurar Azure Private Link Service [Portal]](https://unicast.com.br/posts/azure-to-17-criando-azure-private-link-service-portal/)
-- [[Azure-To] #16 Criando Azure Policy [Portal]](https://unicast.com.br/posts/azure-to-16-criando-azure-policy-portal/)
 <!-- Unicast:END -->
 
 ###
