@@ -29,9 +29,9 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 <!-- Unicast:START -->
 - [[AWS-To] #01 Monitorando com AWS Managed Grafana [Portal]](https://unicast.com.br/posts/aws-to-01-managed-grafana/)
 - [[Azure-To] #19 Monitorando Azure com Grafana [Portal]](https://unicast.com.br/posts/azure-to-19-monitorando-com-grafana1/)
+- [Diferenças entre Terraform e Ansible](https://unicast.com.br/posts/diferencas-entre-terraform-e-ansible/)
 - [10 Boas Praticas para projetos de Terraform](https://unicast.com.br/posts/10-boas-praticas-para-projetos-terraform/)
 - [Diferença entre Infrastructure as Code &lpar;IaC&rpar; e Configuration Management &lpar;CM&rpar;](https://unicast.com.br/posts/diferencas-entre-infrastructure-as-code-iac-e-configuration-management-cm/)
-- [Como organizar projetos de Terraform [Azure]](https://unicast.com.br/posts/como-organizar-projetos-de-terraform-azure/)
 <!-- Unicast:END -->
 
 ###
