@@ -26,11 +26,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [[Exam-Prep] CKA - Certified Kubernetes Administrator](https://unicast.com.br/posts/exam-prep-cka-certified-kubernetes-administrator/)
 - [[AWS-To] #01 Monitorando com AWS Managed Grafana [Portal]](https://unicast.com.br/posts/aws-to-01-managed-grafana/)
 - [Diferenças entre Terraform e Azure Bicep](https://unicast.com.br/posts/diferencas-entre-terraform-e-azure-bicep/)
 - [[Azure-To] #19 Monitorando Azure com Grafana [Portal]](https://unicast.com.br/posts/azure-to-19-monitorando-com-grafana1/)
 - [Trabalhando com múltiplos ambientes no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-multiplos-ambientes-no-terraform-azure/)
-- [Diferenças entre Terraform e Ansible](https://unicast.com.br/posts/diferencas-entre-terraform-e-ansible/)
 <!-- Unicast:END -->
 
 ###
