@@ -39,6 +39,7 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
   <summary> Certificates & Trainings</summary>
 
 <!--START_SECTION:badges-->
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/96x96/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/69134fdf-e47d-43e1-bc1e-d28cb067e9e2 "CKA: Certified Kubernetes Administrator")
 [![Microsoft Certified: Azure Support Engineer for Connectivity Specialty](https://images.credly.com/size/96x96/images/963586bb-5903-400b-9b0a-33ebcf7f4313/image.png)](http://www.credly.com/badges/10c3ecf9-3c5b-495f-88f6-8d7e7e5edce9 "Microsoft Certified: Azure Support Engineer for Connectivity Specialty")
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/96x96/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](http://www.credly.com/badges/9514f85e-99d4-42a6-ad9b-76ad41abe001 "Microsoft Certified Trainer 2023-2024")
 [![Intermediate for Istio by Solo.io](https://images.credly.com/size/96x96/images/7a5401a6-01eb-4f48-bbcd-9a227fdff361/image.png)](http://www.credly.com/badges/0e6b433f-aae5-4f85-8fc3-5f2240ec7496 "Intermediate for Istio by Solo.io")
