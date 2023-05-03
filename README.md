@@ -30,7 +30,7 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 - [Criando seu primeiro módulo no Terraform [Azure]](https://unicast.com.br/posts/criando-seu-primeiro-modulo-no-terraform-azure/)
 - [[Exam-Prep] CKA - Certified Kubernetes Administrator](https://unicast.com.br/posts/exam-prep-cka-certified-kubernetes-administrator/)
 - [Trabalhando com variáveis no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-variaveis-no-terraform-azure/)
-- [[AWS-To] #01 Monitorando com AWS Managed Grafana [Portal]](https://unicast.com.br/posts/aws-to-01-managed-grafana/)
+- [Diferenças entre Terraform variable.tf, terraform.tfvars e variáveis de linha de comando](https://unicast.com.br/posts/diferencas-entre-terraform-variables-tfvars-variaveis-de-linha-de-comando/)
 <!-- Unicast:END -->
 
 ###
