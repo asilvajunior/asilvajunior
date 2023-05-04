@@ -29,8 +29,8 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 - [Fundamentos sobre AWS Directory Services [Portal]](https://unicast.com.br/posts/aws-directory-services/)
 - [Criando seu primeiro módulo no Terraform [Azure]](https://unicast.com.br/posts/criando-seu-primeiro-modulo-no-terraform-azure/)
 - [[Exam-Prep] CKA - Certified Kubernetes Administrator](https://unicast.com.br/posts/exam-prep-cka-certified-kubernetes-administrator/)
+- [Entendendo o Terraform State](https://unicast.com.br/posts/entendendo-o-terraform-state/)
 - [Trabalhando com variáveis no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-variaveis-no-terraform-azure/)
-- [Diferenças entre Terraform variable.tf, terraform.tfvars e variáveis de linha de comando](https://unicast.com.br/posts/diferencas-entre-terraform-variables-tfvars-variaveis-de-linha-de-comando/)
 <!-- Unicast:END -->
 
 ###
