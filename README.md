@@ -26,11 +26,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Microsoft Build 2023 + voucher grátis](https://unicast.com.br/posts/microsoft-build-voucher-gratis/)
 - [Criando seu primeiro módulo no Terraform [Azure]](https://unicast.com.br/posts/criando-seu-primeiro-modulo-no-terraform-azure/)
 - [Fundamentos sobre AWS Directory Services [Portal]](https://unicast.com.br/posts/aws-directory-services/)
-- [Como utilizar loops no Terraform [Azure]](https://unicast.com.br/posts/como-utilizar-loops-no-terraform-azure/)
-- [[Exam-Prep] CKA - Certified Kubernetes Administrator](https://unicast.com.br/posts/exam-prep-cka-certified-kubernetes-administrator/)
-- [Como utilizar outputs no Terraform [Azure]](https://unicast.com.br/posts/como-utilizar-outputs-no-terraform-azure/)
+- [Trabalhando com data sources no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-data-sources-no-terraform-azure/)
+- [Trabalhando com provisioners no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-provisioners-no-terraform-azure/)
 <!-- Unicast:END -->
 
 ###
