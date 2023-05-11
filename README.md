@@ -28,9 +28,9 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 <!-- Unicast:START -->
 - [Microsoft Build 2023 + voucher grátis](https://unicast.com.br/posts/microsoft-build-voucher-gratis/)
 - [Criando seu primeiro módulo no Terraform [Azure]](https://unicast.com.br/posts/criando-seu-primeiro-modulo-no-terraform-azure/)
+- [Trabalhando com depends_on no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-dependson-no-terraform-azure/)
 - [Fundamentos sobre AWS Directory Services [Portal]](https://unicast.com.br/posts/aws-directory-services/)
 - [Trabalhando com data sources no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-data-sources-no-terraform-azure/)
-- [Trabalhando com provisioners no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-provisioners-no-terraform-azure/)
 <!-- Unicast:END -->
 
 ###
