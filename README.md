@@ -27,10 +27,10 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 
 <!-- Unicast:START -->
 - [Azure CLI - Command Line Interface](https://unicast.com.br/posts/azure-cli/)
+- [Platform Engineering, o novo DevOps?](https://unicast.com.br/posts/platform-engineering-o-novo-devops/)
 - [Microsoft Build 2023 + voucher grátis](https://unicast.com.br/posts/microsoft-build-voucher-gratis/)
 - [Trabalhando com dynamic block no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-dynamic-block-no-terraform-azure/)
 - [Criando seu primeiro módulo no Terraform [Azure]](https://unicast.com.br/posts/criando-seu-primeiro-modulo-no-terraform-azure/)
-- [Trabalhando com depends_on no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-dependson-no-terraform-azure/)
 <!-- Unicast:END -->
 
 ###
