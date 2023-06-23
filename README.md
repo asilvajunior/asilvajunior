@@ -10,7 +10,7 @@ Working with technology since 2004 I'm helping companies to adopt tools that ali
 
 Throughout these years I try to share my passion, knowledge and experience. Because of this, I was awarded the **Microsoft Azure MVP in 2022**!
 
--   💻 I’m currently working as **DevOps Tech Lead**
+-   💻 I’m currently working as **DevOps Engineer**
 -   🏅 **Microsoft MVP** since 2022
 -   📝 I regularly write articles on (http://www.unicast.com.br)
 -   🌱 Currently learning **Terraform, Kubernetes**
