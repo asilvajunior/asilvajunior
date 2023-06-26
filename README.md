@@ -26,11 +26,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Importando recursos existentes para o Terraform de forma descomplicada](https://unicast.com.br/posts/importando-recursos-existentes-para-o-terraform-de-forma-descomplicada/)
 - [Importando recursos existentes do Azure para o Terraform](https://unicast.com.br/posts/importando-recursos-existentes-do-azure-para-o-terraform/)
 - [Como usar o TFLint para verificar erros em seu código Terraform [Azure]](https://unicast.com.br/posts/como-usar-o-tflint-para-verificar-erros-em-seu-codigo-terraform-azure/)
 - [Azure CLI - Command Line Interface](https://unicast.com.br/posts/azure-cli/)
 - [O que é Terraform null_resource e como usá-lo?](https://unicast.com.br/posts/o-que-e-terraform-null-resource-e-como-usalo/)
-- [Trabalhando com Workspaces no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-workspaces-no-terraform-azure/)
 <!-- Unicast:END -->
 
 ###
