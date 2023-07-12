@@ -26,7 +26,7 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
-- [Terraform 1.5 traz importação e verificações orientadas por configuração](https://unicast.com.br/posts/Terraform-1-5-traz-importacao-e-verificacoes-orientadas-por-configuracao/)
+- [Terraform 1.5 traz importação e verificações orientadas por configuração](https://unicast.com.br/posts/terraform-1-5-traz-importacao-e-verificacoes-orientadas-por-configuracao/)
 - [Como referenciar um recurso criado por um módulo Terraform](https://unicast.com.br/posts/como-referenciar-um-recurso-criado-por-um-modulo-terraform/)
 - [Como dividir seu arquivo main.tf do Terraform em vários arquivos](https://unicast.com.br/posts/como-dividir-seu-arquivo-maintf-do-terraform-em-varios-arquivos/)
 - [Importando recursos existentes para o Terraform de forma descomplicada](https://unicast.com.br/posts/importando-recursos-existentes-para-o-terraform-de-forma-descomplicada/)
