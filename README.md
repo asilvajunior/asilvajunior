@@ -27,10 +27,10 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 
 <!-- Unicast:START -->
 - [Azure Active Directory &lpar;Azure AD&rpar; agora é Microsoft Entra ID](https://unicast.com.br/posts/azure-active-directory-e-microsoft-entra-id/)
-- [[Azure-To] #20 Configurar Azure Application Gateway [Portal]](https://unicast.com.br/posts/azure-to-20-configurar-azure-application-gateway-portal/)
+- [[Azure-To] #21 Configurar Azure Application Gateway [Portal]](https://unicast.com.br/posts/azure-to-21-configurar-azure-application-gateway-portal/)
+- [[Azure-To] #20 Configurar Azure Load Balancer [Portal]](https://unicast.com.br/posts/azure-to-20-configurar-azure-load-balancer-portal/)
 - [Terraform 1.5 traz importação e verificações orientadas por configuração](https://unicast.com.br/posts/terraform-1-5-traz-importacao-e-verificacoes-orientadas-por-configuracao/)
 - [Como referenciar um recurso criado por um módulo Terraform](https://unicast.com.br/posts/como-referenciar-um-recurso-criado-por-um-modulo-terraform/)
-- [Como dividir seu arquivo main.tf do Terraform em vários arquivos](https://unicast.com.br/posts/como-dividir-seu-arquivo-maintf-do-terraform-em-varios-arquivos/)
 <!-- Unicast:END -->
 
 ###
