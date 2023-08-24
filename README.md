@@ -26,11 +26,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Microsoft Learn durante exames de certificação](https://unicast.com.br/posts/microsoft-learn-durante-exames-de-certificacao/)
 - [Azure Active Directory &lpar;Azure AD&rpar; agora é Microsoft Entra ID](https://unicast.com.br/posts/azure-active-directory-e-microsoft-entra-id/)
 - [[Azure-To] #23 Configurar Azure Traffic Manager [Portal]](https://unicast.com.br/posts/azure-to-23-configurar-azure-traffic-managr-portal/)
 - [[Azure-To] #22 Configurar Azure Front Door [Portal]](https://unicast.com.br/posts/azure-to-22-configurar-azure-front-door-portal/)
 - [[Azure-To] #21 Configurar Azure Application Gateway [Portal]](https://unicast.com.br/posts/azure-to-21-configurar-azure-application-gateway-portal/)
-- [[Azure-To] #20 Configurar Azure Load Balancer [Portal]](https://unicast.com.br/posts/azure-to-20-configurar-azure-load-balancer-portal/)
 <!-- Unicast:END -->
 
 ###
