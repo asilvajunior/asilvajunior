@@ -26,11 +26,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Microsoft lança trilha de certificações do GitHub](https://unicast.com.br/posts/microsoft-lan%C3%A7a-trilha-de-certificacoes-do-github/)
 - [Microsoft Learn durante exames de certificação](https://unicast.com.br/posts/microsoft-learn-durante-exames-de-certificacao/)
 - [OpenTF: O que esperar do Terraform agora?](https://unicast.com.br/posts/opentf-o-que-esperar-do-terraform-agora/)
 - [Azure Active Directory &lpar;Azure AD&rpar; agora é Microsoft Entra ID](https://unicast.com.br/posts/azure-active-directory-e-microsoft-entra-id/)
 - [[Azure-To] #23 Configurar Azure Traffic Manager [Portal]](https://unicast.com.br/posts/azure-to-23-configurar-azure-traffic-managr-portal/)
-- [[Azure-To] #22 Configurar Azure Front Door [Portal]](https://unicast.com.br/posts/azure-to-22-configurar-azure-front-door-portal/)
 <!-- Unicast:END -->
 
 ###
