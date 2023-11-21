@@ -13,9 +13,9 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 -   💻 I’m currently working as **DevOps Engineer**
 -   🏅 **Microsoft MVP** since 2022
 -   📝 I regularly write articles on (http://www.unicast.com.br)
--   💬 Ask me about Microsoft Azure, Terraform, and Kubernetes.
+-   💬 Ask me about Microsoft Azure, Terraform, and Kubernetes
 -   🌱 Currently learning **Terraform, Kubernetes**
--   ⚡ Fun fact: I am a former professional chef
+-   ⚡ Fun fact: I am a former professional chef 🔪
 
 <div> 
   <a href="https://www.linkedin.com/in/antoniocarlosjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
