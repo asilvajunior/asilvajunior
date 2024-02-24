@@ -28,11 +28,11 @@ Throughout these years I try to share my passion, knowledge and experience. Beca
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Indicadores que todos os profissionais em TI devem conhecer [Portal]](https://unicast.com.br/posts/indicadores-essenciais/)
 - [[Exam-Prep] HashiCorp Certified: Terraform Associate 003](https://unicast.com.br/posts/exam-prep-hashicorp-certified-terraform-associate-003/)
 - [Logs de Entrada e Auditoria no Microsoft Entra ID [Portal]](https://unicast.com.br/posts/logs-microsoft-entraid/)
 - [Microsoft lança trilha de certificações do GitHub](https://unicast.com.br/posts/microsoft-lan%C3%A7a-trilha-de-certificacoes-do-github/)
 - [Microsoft Learn durante exames de certificação](https://unicast.com.br/posts/microsoft-learn-durante-exames-de-certificacao/)
-- [OpenTF: O que esperar do Terraform agora?](https://unicast.com.br/posts/opentf-o-que-esperar-do-terraform-agora/)
 <!-- Unicast:END -->
 
 ###
