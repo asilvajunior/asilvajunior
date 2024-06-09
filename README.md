@@ -4,11 +4,12 @@
 
 ## Hi there 👋
 
-I'm Antonio Junior working as a DevOps Engineer with an obsession in Cloud, DevOps, Kubernetes Linux and much more.
+I'm Antonio Junior, a DevOps Engineer obsessed with Cloud, DevOps, Kubernetes Linux, and much more.
 
-Working with technology since 2004 I'm helping companies to adopt tools that align with their business, understanding their needs and promote the adoption of cloud computing, increasing their productivity and creating modern, resilient, and highly available corporate environments.
+I have been working with technology since 2004. I work as a consultant and cloud architect, helping companies adopt tools that align with their business, understanding their needs, and promoting the adoption of cloud computing. This increases their productivity and creates modern, resilient, and highly available corporate environments.
 
-Throughout these years I try to share my passion, knowledge and experience. Because of this, I was awarded the **Microsoft Azure MVP in 2022**!
+I have tried to share my passion, knowledge, and experience throughout these years. Because of this, I was awarded the Microsoft Azure MVP in 2022!
+
 
 -   💻 I’m currently working as **DevOps Engineer**
 -   🏅 **Microsoft MVP** since 2022
