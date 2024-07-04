@@ -29,11 +29,11 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Kubernetes 101: Docker vs ContainerD](https://unicast.com.br/posts/kubernetes-101-docker-x-containerd/)
 - [Kubernetes 101: Entendendo o básico sobre orquestração de containers](https://unicast.com.br/posts/kubernetes-101-entendendo-o-basico-sobre-orquestracao-de-containers/)
 - [Kubernetes 10 anos: Por que você precisa dominar essa ferramenta](https://unicast.com.br/posts/kubernetes-10-por-que-dominar/)
 - [Novidades e planejamento para o 2º Semestre de 2024](https://unicast.com.br/posts/novidades-unicast-cloud/)
 - [Indicadores que todos os profissionais em TI devem conhecer](https://unicast.com.br/posts/indicadores-essenciais/)
-- [[Exam-Prep] HashiCorp Certified: Terraform Associate 003](https://unicast.com.br/posts/exam-prep-hashicorp-certified-terraform-associate-003/)
 <!-- Unicast:END -->
 
 ###
