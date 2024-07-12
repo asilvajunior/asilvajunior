@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I'm Antonio Junior, a DevOps Engineer obsessed with Cloud, DevOps, Kubernetes Linux, and much more.
+I'm Antonio Junior, a DevOps Engineer obsessed with Cloud, DevOps, Linux, Kubernetes, Terraform, and more.
 
 I have been working with technology since 2004. I work as a consultant and cloud architect, helping companies adopt tools that align with their business, understanding their needs, and promoting the adoption of cloud computing. This increases their productivity and creates modern, resilient, and highly available corporate environments.
 
