@@ -42,6 +42,7 @@ I have tried to share my passion, knowledge, and experience throughout these yea
   <summary> Certificates & Trainings</summary>
 
 <!--START_SECTION:badges-->
+[![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/96x96/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](http://www.credly.com/badges/f8f6ae92-33b9-456c-8293-38bef226ed39 "KCSA: Kubernetes and Cloud Native Security Associate")
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/96x96/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/9489519a-82ad-462d-80cb-2817fadea1e5 "HashiCorp Certified: Terraform Associate (003)")
 [![2023 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/96x96/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png)](http://www.credly.com/badges/743e2a8e-690c-4276-8a71-86984ef441b0 "2023 Microsoft Most Valuable Professional (MVP)")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/96x96/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/69134fdf-e47d-43e1-bc1e-d28cb067e9e2 "CKA: Certified Kubernetes Administrator")
