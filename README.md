@@ -30,10 +30,10 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 
 <!-- Unicast:START -->
 - [[Exam-Prep] Kubernetes and Cloud Native Security Associate &lpar;KCSA&rpar;](https://unicast.com.br/posts/exam-prep-kcsa-kubernetes-cloud-native-security/)
+- [Kubernetes 101: POD](https://unicast.com.br/posts/kubernetes-101-pods/)
 - [Kubernetes 101: Docker vs ContainerD](https://unicast.com.br/posts/kubernetes-101-docker-x-containerd/)
 - [Kubernetes 101: Entendendo o básico sobre orquestração de containers](https://unicast.com.br/posts/kubernetes-101-entendendo-o-basico-sobre-orquestracao-de-containers/)
 - [Kubernetes 10 anos: Por que você precisa dominar essa ferramenta](https://unicast.com.br/posts/kubernetes-10-por-que-dominar/)
-- [Novidades e planejamento para o 2º Semestre de 2024](https://unicast.com.br/posts/novidades-unicast-cloud/)
 <!-- Unicast:END -->
 
 ###
