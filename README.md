@@ -29,11 +29,11 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Kubernetes 101: ConfigMaps](https://unicast.com.br/posts/kubernetes-101-configmaps/)
 - [Kubernetes 101: Services](https://unicast.com.br/posts/kubernetes-101-services/)
 - [Kubernetes 101: Namespaces](https://unicast.com.br/posts/kubernetes-101-namespaces/)
 - [[Exam-Prep] Kubernetes and Cloud Native Security Associate &lpar;KCSA&rpar;](https://unicast.com.br/posts/exam-prep-kcsa-kubernetes-cloud-native-security/)
 - [O bug da CrowdStrike: O dia em que a terra parou e impactou a Microsoft](https://unicast.com.br/posts/o-bug-da-cloudstrike-o-dia-em-que-a-terra-parou/)
-- [Kubernetes 101: Deployment](https://unicast.com.br/posts/kubernetes-101-deployment/)
 <!-- Unicast:END -->
 
 ###
