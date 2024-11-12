@@ -29,11 +29,11 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Kubernetes 101: DaemonSets](https://unicast.com.br/posts/kubernetes-101-daemonsets/)
 - [Kubernetes 101: Secrets](https://unicast.com.br/posts/kubernetes-101-secrets/)
 - [Kubernetes 101: ConfigMaps](https://unicast.com.br/posts/kubernetes-101-configmaps/)
 - [Kubernetes 101: Services](https://unicast.com.br/posts/kubernetes-101-services/)
 - [Kubernetes 101: Namespaces](https://unicast.com.br/posts/kubernetes-101-namespaces/)
-- [[Exam-Prep] Kubernetes and Cloud Native Security Associate &lpar;KCSA&rpar;](https://unicast.com.br/posts/exam-prep-kcsa-kubernetes-cloud-native-security/)
 <!-- Unicast:END -->
 
 ###
