@@ -29,11 +29,11 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Kubernetes 101: Label e Selectors](https://unicast.com.br/posts/kubernetes-101-labels-selectors/)
 - [Kubernetes 101: StorageClass](https://unicast.com.br/posts/kubernetes-101-storageclass/)
 - [Kubernetes 101: Volumes](https://unicast.com.br/posts/kubernetes-101-volumes/)
 - [Kubernetes 101: DaemonSets](https://unicast.com.br/posts/kubernetes-101-daemonsets/)
 - [Kubernetes 101: Secrets](https://unicast.com.br/posts/kubernetes-101-secrets/)
-- [Kubernetes 101: ConfigMaps](https://unicast.com.br/posts/kubernetes-101-configmaps/)
 <!-- Unicast:END -->
 
 ###
