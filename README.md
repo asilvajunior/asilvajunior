@@ -29,11 +29,11 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Kubernetes 101: Taints e Tolerations](https://unicast.com.br/posts/kubernetes-101-taints-tolerations/)
 - [Kubernetes 101: StatefulSets](https://unicast.com.br/posts/kubernetes-101-statefulsets/)
 - [Kubernetes 101: Label e Selectors](https://unicast.com.br/posts/kubernetes-101-labels-selectors/)
 - [Kubernetes 101: StorageClass](https://unicast.com.br/posts/kubernetes-101-storageclass/)
 - [Kubernetes 101: Volumes](https://unicast.com.br/posts/kubernetes-101-volumes/)
-- [Kubernetes 101: DaemonSets](https://unicast.com.br/posts/kubernetes-101-daemonsets/)
 <!-- Unicast:END -->
 
 ###
