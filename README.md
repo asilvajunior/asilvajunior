@@ -29,11 +29,11 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [Kubernetes 101: Resource Limits](https://unicast.com.br/posts/kubernetes-101-resource-limits/)
 - [Kubernetes 101: Node Selector](https://unicast.com.br/posts/kubernetes-101-node-selector/)
 - [Kubernetes 101: Node Affinity](https://unicast.com.br/posts/kubernetes-101-node-affinity/)
 - [Kubernetes 101: Taints e Tolerations](https://unicast.com.br/posts/kubernetes-101-taints-tolerations/)
 - [Kubernetes 101: StatefulSets](https://unicast.com.br/posts/kubernetes-101-statefulsets/)
-- [Kubernetes 101: Label e Selectors](https://unicast.com.br/posts/kubernetes-101-labels-selectors/)
 <!-- Unicast:END -->
 
 ###
