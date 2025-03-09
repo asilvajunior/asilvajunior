@@ -86,9 +86,14 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 
 </details>
 
-<p align='center'>
- <a href="https://github.com/asilvajunior">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=asilvajunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <a href="https://github.com/asilvajunior">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=asilvajunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="asilvajunior"/>
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+  <a href="https://github.com/asilvajunior">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=asilvajunior&show_icons=true&theme=dracula&locale=en&layout=compact" alt="asilvajunior"/>
+  </a>
 </p>
 
 <p align="center">
