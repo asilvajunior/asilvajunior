@@ -30,10 +30,10 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 
 <!-- Unicast:START -->
 - [[Exam-Prep] CKAD - Certified Kubernetes Application Developer](https://unicast.com.br/posts/exam-prep-ckad-certified-kubernetes-application-developer/)
+- [Kubernetes 101: Role-Based Access Control &lpar;RBAC&rpar;](https://unicast.com.br/posts/kubernetes-101-rbac/)
 - [Kubernetes 101: Resource Limits](https://unicast.com.br/posts/kubernetes-101-resource-limits/)
 - [Kubernetes 101: Node Selector](https://unicast.com.br/posts/kubernetes-101-node-selector/)
 - [Kubernetes 101: Node Affinity](https://unicast.com.br/posts/kubernetes-101-node-affinity/)
-- [Kubernetes 101: Taints e Tolerations](https://unicast.com.br/posts/kubernetes-101-taints-tolerations/)
 <!-- Unicast:END -->
 
 ###
