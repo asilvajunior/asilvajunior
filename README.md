@@ -29,7 +29,7 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 ### Latest from the blog:
 
 <!-- Unicast:START -->
-- [Update Cluster Kubernetes Raspberry PI](https://unicast.com.br/posts/update-cluster-kubernetes-raspberry-pi/)
+- [[Update] Cluster Kubernetes Raspberry PI](https://unicast.com.br/posts/update-cluster-kubernetes-raspberry-pi/)
 - [[Exam-Prep] CKAD - Certified Kubernetes Application Developer](https://unicast.com.br/posts/exam-prep-ckad-certified-kubernetes-application-developer/)
 - [Kubernetes 101: Network Policies](https://unicast.com.br/posts/kubernetes-101-network-policies/)
 - [Kubernetes 101: Security Contexts](https://unicast.com.br/posts/kubernetes-101-security-contexts/)
