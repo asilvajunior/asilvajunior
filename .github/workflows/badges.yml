@@ -14,7 +14,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          COMMIT_MESSAGE: "My commit message to update badges"
+          COMMIT_MESSAGE: "Add and update my latest badges"
           CREDLY_USER: asilva-jr
           CREDLY_SORT: RECENT
           BADGE_SIZE: 96
