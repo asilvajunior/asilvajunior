@@ -16,5 +16,4 @@ jobs:
         with:
           COMMIT_MESSAGE: "Add and update my latest badges"
           CREDLY_USER: asilva-jr
-          CREDLY_SORT: RECENT
           BADGE_SIZE: 96
