@@ -29,11 +29,11 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 ### Latest from the blog:
 
 <!-- Unicast:START -->
-- [[Exam-Prep] AWS Certified Cloud Practitioner](https://unicast.com.br/posts/exam-prep-aws-certified-cloud-practitioner/)
+- [[Exam-Prep] Tempo extra para provas de certificação AWS](https://unicast.com.br/posts/tempo-extra-para-provas-de-certificacao-aws/)
+- [[Exam-Prep] AWS Certified Cloud Practitioner](https://unicast.com.br/posts/exam-prep-aws-certified-cloud-practitioner-copy/)
 - [[Homelab] #4 Update do ambiente](https://unicast.com.br/posts/homelab-4-update-do-ambiente/)
 - [Kubernetes 101: Ingress](https://unicast.com.br/posts/kubernetes-101-ingress/)
 - [[Update] Cluster Kubernetes Raspberry PI](https://unicast.com.br/posts/update-cluster-kubernetes-raspberry-pi/)
-- [[Exam-Prep] CKAD - Certified Kubernetes Application Developer](https://unicast.com.br/posts/exam-prep-ckad-certified-kubernetes-application-developer/)
 <!-- Unicast:END -->
 
 ###
