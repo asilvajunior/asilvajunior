@@ -33,7 +33,7 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 - [Primeiros passos com AWS CLI: Instalando e configurando](https://unicast.com.br/posts/primeiros-passos-com-aws-cli-instalando-e-configurando/)
 - [[Exam-Prep] Tempo extra para provas de certificação AWS](https://unicast.com.br/posts/tempo-extra-para-provas-de-certificacao-aws-copy/)
 - [[Exam-Prep] AWS Certified Cloud Practitioner](https://unicast.com.br/posts/exam-prep-aws-certified-cloud-practitioner-copy/)
-- [CAF: O que é o Cloud Adoption Framework da Microsoft?](https://unicast.com.br/posts/caf-o-que-e-o-cloud-adoption-framework-da-microsoft/)
+- [CAF: Pilar 3 - Pronto &lpar;Ready&rpar; &lpar;Microsoft&rpar;](https://unicast.com.br/posts/caf-pilar-3/)
 <!-- Unicast:END -->
 
 ###
