@@ -30,10 +30,10 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 
 <!-- Unicast:START -->
 - [Adeus Free Tier de 12 meses! Veja o que muda na AWS hoje](https://unicast.com.br/posts/adeus-free-tier-de-12-meses-veja-o-que-muda-na-aws-hoje/)
+- [WAF: O que é o Well-Architected Framework da Microsoft?](https://unicast.com.br/posts/waf-o-que-e-o-well-architected-framework-da-microsoft/)
 - [Configurando VPN Site to Site com AWS e MikroTik [CLI-Only]](https://unicast.com.br/posts/configurando-vpn-site-to-site-com-aws-e-mikrotik-cli-only/)
 - [Primeiros passos com AWS CLI: Instalando e configurando](https://unicast.com.br/posts/primeiros-passos-com-aws-cli-instalando-e-configurando/)
 - [[Exam-Prep] Tempo extra para provas de certificação AWS](https://unicast.com.br/posts/tempo-extra-para-provas-de-certificacao-aws-copy/)
-- [[Exam-Prep] AWS Certified Cloud Practitioner](https://unicast.com.br/posts/exam-prep-aws-certified-cloud-practitioner-copy/)
 <!-- Unicast:END -->
 
 ###
