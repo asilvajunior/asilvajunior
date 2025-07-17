@@ -93,7 +93,8 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 </p>
 
 <p align="center">
- <a href="AZURE"><img src="https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=flat&logo=MicrosoftAzure&logoColor=white"></a>
+ <a href="AZURE"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
+ <a href="AWS"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"></a>
  <a href="LINUX"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000"></a>
  <a href="DEBIAN"><img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=000000"></a>
  <a href="KUBERNETES"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=3C93FF"></a>
