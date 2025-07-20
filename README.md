@@ -29,11 +29,11 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 ### Latest from the blog:
 
 <!-- Unicast:START -->
+- [[Exam-Prep] AWS Certified Solutions Architect – Associate](https://unicast.com.br/posts/exam-prep-aws-certified-solutions-architect-associate/)
 - [Adeus Free Tier de 12 meses! Veja o que muda na AWS hoje](https://unicast.com.br/posts/adeus-free-tier-de-12-meses-veja-o-que-muda-na-aws-hoje/)
 - [WAF: Pilar 2 - Segurança &lpar;Microsoft&rpar;](https://unicast.com.br/posts/waf-pilar-2-seguranca-microsoft/)
 - [WAF: Pilar 1 - Confiabilidade &lpar;Microsoft&rpar;](https://unicast.com.br/posts/waf-pilar-1-confiabilidade-microsoft/)
 - [WAF: O que é o Well-Architected Framework da Microsoft?](https://unicast.com.br/posts/waf-o-que-e-o-well-architected-framework-da-microsoft/)
-- [Configurando VPN Site to Site com AWS e MikroTik [CLI-Only]](https://unicast.com.br/posts/configurando-vpn-site-to-site-com-aws-e-mikrotik-cli-only/)
 <!-- Unicast:END -->
 
 ###
