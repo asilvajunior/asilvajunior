@@ -42,6 +42,7 @@ I have tried to share my passion, knowledge, and experience throughout these yea
   <summary> Certificates & Trainings</summary>
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/cbcc3a7d-1768-470d-bbeb-7336bc17c848" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/6abe4a3d-ac75-425c-9c4b-f3a22a3f0f1b" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/baa1d40b-1302-4363-92b0-f82506f112e2" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/69134fdf-e47d-43e1-bc1e-d28cb067e9e2" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
@@ -82,7 +83,6 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 <a href="https://www.credly.com/badges/74eee0e9-b078-45ef-8fdd-8e3ccd112c3d" title="Juniper Networks Certified Associate, Cloud (JNCIA-Cloud)"><img src="https://images.credly.com/size/80x80/images/746fd41e-5653-4624-b7f8-eaa4b8645e78/L_01_asso_JNCIA-Cloud.png" alt="Juniper Networks Certified Associate, Cloud (JNCIA-Cloud)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/89c3eb1c-1aba-48d8-8dfa-74c23906d158" title="Juniper Networks Certified Associate, Design (JNCIA-Design)"><img src="https://images.credly.com/size/80x80/images/fc3921b5-3f3e-4869-b55b-ddb94249c0bb/image.png" alt="Juniper Networks Certified Associate, Design (JNCIA-Design)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/62399ff7-8234-4a8f-a699-333517f6ede6" title="Juniper Networks Certified Associate, Junos (JNCIA-Junos)"><img src="https://images.credly.com/size/80x80/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png" alt="Juniper Networks Certified Associate, Junos (JNCIA-Junos)" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/cbcc3a7d-1768-470d-bbeb-7336bc17c848" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 </details>
