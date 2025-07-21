@@ -31,9 +31,9 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 <!-- Unicast:START -->
 - [[Exam-Prep] AWS Certified Solutions Architect – Associate](https://unicast.com.br/posts/exam-prep-aws-certified-solutions-architect-associate/)
 - [Adeus Free Tier de 12 meses! Veja o que muda na AWS hoje](https://unicast.com.br/posts/adeus-free-tier-de-12-meses-veja-o-que-muda-na-aws-hoje/)
+- [WAF: Pilar 3 - Otimização de Custos &lpar;Microsoft&rpar;](https://unicast.com.br/posts/waf-pilar-3-otimizacao-de-custos-microsoft/)
 - [WAF: Pilar 2 - Segurança &lpar;Microsoft&rpar;](https://unicast.com.br/posts/waf-pilar-2-seguranca-microsoft/)
 - [WAF: Pilar 1 - Confiabilidade &lpar;Microsoft&rpar;](https://unicast.com.br/posts/waf-pilar-1-confiabilidade-microsoft/)
-- [WAF: O que é o Well-Architected Framework da Microsoft?](https://unicast.com.br/posts/waf-o-que-e-o-well-architected-framework-da-microsoft/)
 <!-- Unicast:END -->
 
 ###
