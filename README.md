@@ -30,10 +30,10 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 
 <!-- Unicast:START -->
 - [Kubernetes v1.34 – A release que entrega sem quebrar?](https://unicast.com.br/posts/kubernetes-134-a-release-que-entrega-sem-quebrar/)
+- [Azure Pipelines vs GitHub Actions — Qual escolher para seu CI/CD](https://unicast.com.br/posts/azure-pipelines-vs-github-actions-qual-escolhe-para-seu-cicd/)
 - [WAF: Resumo dos 5 Pilares do Well-Architected Framework da Microsoft](https://unicast.com.br/posts/resumo-dos-5-pilares-do-well-architected-framework-da-microsoft/)
 - [WAF: Pilar 5 - Eficiência de Desempenho &lpar;Microsoft&rpar;](https://unicast.com.br/posts/waf-pilar-5-eficiencia-de-desempenho-microsoft/)
 - [WAF: Pilar 4 - Excelência Operacional &lpar;Microsoft&rpar;](https://unicast.com.br/posts/waf-pilar-4-excelencia-operacional-microsoft/)
-- [[Exam-Prep] AWS Certified Solutions Architect – Associate](https://unicast.com.br/posts/exam-prep-aws-certified-solutions-architect-associate/)
 <!-- Unicast:END -->
 
 ###
