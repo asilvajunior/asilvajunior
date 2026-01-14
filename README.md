@@ -30,10 +30,10 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 
 <!-- Unicast:START -->
 - [AWS US-EAST-1: O apagão de 20 de outubro que deixou o Brasil e o mundo na emergência](https://unicast.com.br/posts/aws-us-east1-o-apagao-que-deixou-o-brasil-e-o-mundo-na-emergencia/)
+- [Primeiros Passos: Protegendo sua conta root e criando usuário admin na AWS](https://unicast.com.br/posts/aws-primeiros-passos-protegendo-conta-root-e-criando-usuario-admin/)
 - [AWS IAM: Princípios de segurança e boas práticas para iniciantes](https://unicast.com.br/posts/aws-iam-principios-de-seguranca-e-boas-praticas-para-iniciantes/)
 - [Kubernetes v1.34 – A release que entrega sem quebrar?](https://unicast.com.br/posts/kubernetes-134-a-release-que-entrega-sem-quebrar/)
 - [Azure Landing Zones — A base para uma nuvem segura, escalável e governada](https://unicast.com.br/posts/azure-landing-zones-a-base-para-uma-nuvem-segura-escal%C3%A1vel-e-governada/)
-- [Azure Pipelines vs GitHub Actions — Qual escolher para seu CI/CD](https://unicast.com.br/posts/azure-pipelines-vs-github-actions-qual-escolhe-para-seu-cicd-copy/)
 <!-- Unicast:END -->
 
 ###
