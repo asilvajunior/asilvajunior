@@ -80,6 +80,7 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 <a href="https://www.credly.com/badges/74eee0e9-b078-45ef-8fdd-8e3ccd112c3d" title="Juniper Networks Certified Associate, Cloud (JNCIA-Cloud)"><img src="https://images.credly.com/size/80x80/images/746fd41e-5653-4624-b7f8-eaa4b8645e78/L_01_asso_JNCIA-Cloud.png" alt="Juniper Networks Certified Associate, Cloud (JNCIA-Cloud)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/89c3eb1c-1aba-48d8-8dfa-74c23906d158" title="Juniper Networks Certified Associate, Design (JNCIA-Design)"><img src="https://images.credly.com/size/80x80/images/fc3921b5-3f3e-4869-b55b-ddb94249c0bb/image.png" alt="Juniper Networks Certified Associate, Design (JNCIA-Design)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/62399ff7-8234-4a8f-a699-333517f6ede6" title="Juniper Networks Certified Associate, Junos (JNCIA-Junos)"><img src="https://images.credly.com/size/80x80/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png" alt="Juniper Networks Certified Associate, Junos (JNCIA-Junos)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/d95f8ddd-c564-4961-91ab-0f27194f2498" title="AWS Certified AI Practitioner"><img src="https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 </details>
