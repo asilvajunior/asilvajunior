@@ -81,6 +81,7 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 [![Juniper Networks Certified Associate, Cloud (JNCIA-Cloud)](https://images.credly.com/size/80x80/images/746fd41e-5653-4624-b7f8-eaa4b8645e78/L_01_asso_JNCIA-Cloud.png)](https://www.credly.com/badges/74eee0e9-b078-45ef-8fdd-8e3ccd112c3d)
 [![Juniper Networks Certified Associate, Design (JNCIA-Design)](https://images.credly.com/size/80x80/images/fc3921b5-3f3e-4869-b55b-ddb94249c0bb/image.png)](https://www.credly.com/badges/89c3eb1c-1aba-48d8-8dfa-74c23906d158)
 [![Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://images.credly.com/size/80x80/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png)](https://www.credly.com/badges/62399ff7-8234-4a8f-a699-333517f6ede6)
+[![Microsoft Certified Trainer (MCT) 2026](https://images.credly.com/size/80x80/images/b81c1cec-da9d-4587-976c-ad8562f85e95/blob)](https://www.credly.com/badges/a70733e3-753b-4560-b7f6-15dd0bef73d1)
 <!--END_SECTION:badges-->
 
 </details>
