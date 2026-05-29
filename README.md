@@ -55,6 +55,7 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 [![2025 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/80x80/images/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob)](https://www.credly.com/badges/f583ee7f-c596-4f19-ab07-20666e2180ea)
 [![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/80x80/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](https://www.credly.com/badges/e0296383-db10-4a4c-8fcc-c6481a5340ac)
 [![2023 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/80x80/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png)](https://www.credly.com/badges/743e2a8e-690c-4276-8a71-86984ef441b0)
+[![Microsoft Certified Trainer (MCT) 2026](https://images.credly.com/size/80x80/images/b81c1cec-da9d-4587-976c-ad8562f85e95/blob)](https://www.credly.com/badges/a70733e3-753b-4560-b7f6-15dd0bef73d1)
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/80x80/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](https://www.credly.com/badges/c1f8b14b-0ad8-4016-bfe5-815daa01663f)
 [![Microsoft Certified Trainer 2022-2023](https://images.credly.com/size/80x80/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png)](https://www.credly.com/badges/7e20dbe9-7efe-478f-a144-7ea7223f7551)
 [![Microsoft Certified Trainer 2021-2022](https://images.credly.com/size/80x80/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)](https://www.credly.com/badges/c25a1fcb-fcaf-4e96-a830-d48e522b1c6b)
@@ -81,7 +82,6 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 [![Juniper Networks Certified Associate, Cloud (JNCIA-Cloud)](https://images.credly.com/size/80x80/images/746fd41e-5653-4624-b7f8-eaa4b8645e78/L_01_asso_JNCIA-Cloud.png)](https://www.credly.com/badges/74eee0e9-b078-45ef-8fdd-8e3ccd112c3d)
 [![Juniper Networks Certified Associate, Design (JNCIA-Design)](https://images.credly.com/size/80x80/images/fc3921b5-3f3e-4869-b55b-ddb94249c0bb/image.png)](https://www.credly.com/badges/89c3eb1c-1aba-48d8-8dfa-74c23906d158)
 [![Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://images.credly.com/size/80x80/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png)](https://www.credly.com/badges/62399ff7-8234-4a8f-a699-333517f6ede6)
-[![Microsoft Certified Trainer (MCT) 2026](https://images.credly.com/size/80x80/images/b81c1cec-da9d-4587-976c-ad8562f85e95/blob)](https://www.credly.com/badges/a70733e3-753b-4560-b7f6-15dd0bef73d1)
 <!--END_SECTION:badges-->
 
 </details>
