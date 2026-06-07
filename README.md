@@ -13,20 +13,31 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 
 -   💻 I’m currently working as **DevOps Engineer**
 -   🏅 **Microsoft MVP** since 2022
--   📝 I regularly write articles on (http://www.unicast.com.br)
+-   📝 I have written technical articles on [unicast.com.br](http://www.unicast.com.br) (currently on pause)
 -   💬 Ask me about Microsoft Azure, Terraform, Kubernetes and AWS
 -   🌱 Currently learning **Terraform, Kubernetes and AWS**
 -   ⚡ Fun fact: I am a former professional chef 🔪
 
-<div> 
+<p align="center">
   <a href="https://www.linkedin.com/in/antoniocarlosjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://www.unicast.com.br/" target="_blank"><img src="https://img.shields.io/badge/-Website%2fBlog-blue?style=flat&logo=website&logoColor=white&link="_blank"></a> 
   <a href="https://discord.gg/S6zFKGA7hg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" target="_blank"></a> 
   <a href= "https://www.youtube.com/channel/UCYpdjQbbkBQpDWI1rapkVUA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/unicastlab/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+  <a href="https://www.instagram.com/jr_silva19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=42ed39c9-4bae-4b01-826e-dc3f8755f22a" target="_blank"><img src="https://img.shields.io/badge/☕_Buy_me_a_coffee-PIX-00D9FF?style=flat&logo=coffee&logoColor=white"></a>
+</p>
 
-### Latest from the blog:
+<p align="center">
+ <a href="AZURE"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
+ <a href="AWS"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"></a>
+ <a href="LINUX"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000"></a>
+ <a href="DEBIAN"><img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=000000"></a>
+ <a href="KUBERNETES"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=3C93FF"></a>
+ <a href="TERRAFORM"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white"></a>
+</p>
+
+<details>
+  <summary>Latest from the blog</summary>
 
 <!-- Unicast:START -->
 - [Pausa no blog e um desabafo sobre conteúdo técnico e IA](https://unicast.com.br/posts/pausa-no-blog-e-um-desabafo-sobre-conteudo-tecnico-e-ia/)
@@ -36,7 +47,9 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 - [AWS IAM: Princípios de segurança e boas práticas para iniciantes](https://unicast.com.br/posts/aws-iam-principios-de-seguranca-e-boas-praticas-para-iniciantes/)
 <!-- Unicast:END -->
 
-###
+</details>
+
+
 
 <details>
   <summary> Certificates & Trainings</summary>
@@ -96,15 +109,6 @@ GitHub README Stats service is currently paused (503 error)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asilvajunior&show_icons=true&theme=dracula&locale=en&layout=compact" alt="asilvajunior" width="300"/>
 </p>
 -->
-
-<p align="center">
- <a href="AZURE"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
- <a href="AWS"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"></a>
- <a href="LINUX"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000"></a>
- <a href="DEBIAN"><img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=000000"></a>
- <a href="KUBERNETES"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=3C93FF"></a>
- <a href="TERRAFORM"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white"></a>
-</p>
 
  <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
