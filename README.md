@@ -86,11 +86,16 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 
 </details>
 
+<!--
+GitHub README Stats service is currently paused (503 error)
+-->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asilvajunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="asilvajunior" width="400"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asilvajunior&show_icons=true&theme=dracula&locale=en&layout=compact" alt="asilvajunior" width="300"/>
 </p>
+-->
 
 <p align="center">
  <a href="AZURE"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
