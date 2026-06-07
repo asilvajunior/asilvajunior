@@ -37,21 +37,6 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 </p>
 
 <details>
-  <summary>Latest from the blog</summary>
-
-<!-- Unicast:START -->
-- [Pausa no blog e um desabafo sobre conteúdo técnico e IA](https://unicast.com.br/posts/pausa-no-blog-e-um-desabafo-sobre-conteudo-tecnico-e-ia/)
-- [[Exam-Prep] AWS Certified AI Practitioner — relato real, lições e plano de estudos](https://unicast.com.br/posts/exam-prep-aws-certified-ai-practitioner/)
-- [AWS US-EAST-1: O apagão de 20 de outubro que deixou o Brasil e o mundo na emergência](https://unicast.com.br/posts/aws-us-east1-o-apagao-que-deixou-o-brasil-e-o-mundo-na-emergencia/)
-- [Primeiros Passos: Protegendo sua conta root e criando usuário admin na AWS](https://unicast.com.br/posts/aws-primeiros-passos-protegendo-conta-root-e-criando-usuario-admin/)
-- [AWS IAM: Princípios de segurança e boas práticas para iniciantes](https://unicast.com.br/posts/aws-iam-principios-de-seguranca-e-boas-praticas-para-iniciantes/)
-<!-- Unicast:END -->
-
-</details>
-
-
-
-<details>
   <summary> Certificates & Trainings</summary>
 
 <!--START_SECTION:badges-->
@@ -96,6 +81,19 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 [![Juniper Networks Certified Associate, Design (JNCIA-Design)](https://images.credly.com/size/80x80/images/fc3921b5-3f3e-4869-b55b-ddb94249c0bb/image.png)](https://www.credly.com/badges/89c3eb1c-1aba-48d8-8dfa-74c23906d158)
 [![Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://images.credly.com/size/80x80/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png)](https://www.credly.com/badges/62399ff7-8234-4a8f-a699-333517f6ede6)
 <!--END_SECTION:badges-->
+
+</details>
+
+<details>
+  <summary>Latest from the blog</summary>
+
+<!-- Unicast:START -->
+- [Pausa no blog e um desabafo sobre conteúdo técnico e IA](https://unicast.com.br/posts/pausa-no-blog-e-um-desabafo-sobre-conteudo-tecnico-e-ia/)
+- [[Exam-Prep] AWS Certified AI Practitioner — relato real, lições e plano de estudos](https://unicast.com.br/posts/exam-prep-aws-certified-ai-practitioner/)
+- [AWS US-EAST-1: O apagão de 20 de outubro que deixou o Brasil e o mundo na emergência](https://unicast.com.br/posts/aws-us-east1-o-apagao-que-deixou-o-brasil-e-o-mundo-na-emergencia/)
+- [Primeiros Passos: Protegendo sua conta root e criando usuário admin na AWS](https://unicast.com.br/posts/aws-primeiros-passos-protegendo-conta-root-e-criando-usuario-admin/)
+- [AWS IAM: Princípios de segurança e boas práticas para iniciantes](https://unicast.com.br/posts/aws-iam-principios-de-seguranca-e-boas-praticas-para-iniciantes/)
+<!-- Unicast:END -->
 
 </details>
 
