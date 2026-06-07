@@ -17,6 +17,7 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 -   💬 Ask me about Microsoft Azure, Terraform, Kubernetes and AWS
 -   🌱 Currently learning **Terraform, Kubernetes and AWS**
 -   ⚡ Fun fact: I am a former professional chef 🔪
+-   ☕ Buy me a coffee `42ed39c9-4bae-4b01-826e-dc3f8755f22a`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antoniocarlosjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -24,7 +25,6 @@ I have tried to share my passion, knowledge, and experience throughout these yea
   <a href="https://discord.gg/S6zFKGA7hg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" target="_blank"></a> 
   <a href= "https://www.youtube.com/channel/UCYpdjQbbkBQpDWI1rapkVUA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jr_silva19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=42ed39c9-4bae-4b01-826e-dc3f8755f22a" target="_blank"><img src="https://img.shields.io/badge/☕_Buy_me_a_coffee-PIX-00D9FF?style=flat&logo=coffee&logoColor=white"></a>
 </p>
 
 <p align="center">
