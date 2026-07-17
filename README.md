@@ -8,11 +8,10 @@ I'm Antonio Junior, a DevOps Engineer obsessed with Cloud, DevOps, Linux, Kubern
 
 I have been working with technology since 2004. I work as a consultant and cloud architect, helping companies adopt tools that align with their business, understanding their needs, and promoting the adoption of cloud computing. This increases their productivity and creates modern, resilient, and highly available corporate environments.
 
-I have tried to share my passion, knowledge, and experience throughout these years. Because of this, I was awarded the Microsoft Azure MVP in 2022!
+I have tried to share my passion, knowledge, and experience throughout these years.
 
 
 -   💻 I’m currently working as **DevOps Engineer**
--   🏅 **Microsoft MVP** since 2022
 -   📝 I have written technical articles on [unicast.com.br](http://www.unicast.com.br) (currently on pause)
 -   💬 Ask me about Microsoft Azure, Terraform, Kubernetes and AWS
 -   🌱 Currently learning **Terraform, Kubernetes and AWS**
