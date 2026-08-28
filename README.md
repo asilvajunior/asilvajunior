@@ -74,11 +74,11 @@ I have tried to share my passion, knowledge, and experience throughout these yea
 [![ITIL 4 ® Foundation](https://images.credly.com/size/80x80/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png)](https://www.credly.com/badges/c8892691-66bd-4b42-b0b8-56f7e5a2af17)
 [![JNCIA x 5](https://images.credly.com/size/80x80/images/1971e2f3-b53d-4c15-af70-79ed979c4c93/M_01_asso_5A.png)](https://www.credly.com/badges/0a42bb2d-7a89-46e3-b150-e701c2aea01e)
 [![JNCIA x 3](https://images.credly.com/size/80x80/images/d9f1f414-d4a5-4ef9-96f8-26e3ada93583/M_01_asso_3A.png)](https://www.credly.com/badges/05bce861-d98c-4271-a773-848c661f7d88)
-[![Juniper Networks Certified Associate, Security (JNCIA-SEC)](https://images.credly.com/size/80x80/images/c61cfe43-7e75-4636-818d-88b47e9a2b4c/L_01_asso_JNCIA-SEC.png)](https://www.credly.com/badges/90ccd76d-41bc-453a-93ae-49bc8b56835e)
-[![Juniper Networks Certified Associate, Automation and DevOps (JNCIA-DevOps)](https://images.credly.com/size/80x80/images/ad30282b-5a30-4202-a05c-9c6f4f751595/L_01_asso_JNCIA-DevOps.png)](https://www.credly.com/badges/ee5ac392-97b7-42d9-b2c3-f007208c2626)
-[![Juniper Networks Certified Associate, Cloud (JNCIA-Cloud)](https://images.credly.com/size/80x80/images/746fd41e-5653-4624-b7f8-eaa4b8645e78/L_01_asso_JNCIA-Cloud.png)](https://www.credly.com/badges/74eee0e9-b078-45ef-8fdd-8e3ccd112c3d)
-[![Juniper Networks Certified Associate, Design (JNCIA-Design)](https://images.credly.com/size/80x80/images/fc3921b5-3f3e-4869-b55b-ddb94249c0bb/image.png)](https://www.credly.com/badges/89c3eb1c-1aba-48d8-8dfa-74c23906d158)
-[![Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://images.credly.com/size/80x80/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png)](https://www.credly.com/badges/62399ff7-8234-4a8f-a699-333517f6ede6)
+[![Juniper Networks Certified Associate, Security (JNCIA-SEC)](https://images.credly.com/size/80x80/images/e8c4f4ef-72a7-4593-b01d-1be8e9b581ca/blob)](https://www.credly.com/badges/90ccd76d-41bc-453a-93ae-49bc8b56835e)
+[![Juniper Networks Certified Associate, Automation and DevOps (JNCIA-DevOps)](https://images.credly.com/size/80x80/images/894d0d62-f905-49f7-b1d2-f54d35cbf69f/blob)](https://www.credly.com/badges/ee5ac392-97b7-42d9-b2c3-f007208c2626)
+[![Juniper Networks Certified Associate, Cloud (JNCIA-Cloud)](https://images.credly.com/size/80x80/images/d18b3b37-cdca-4679-b82d-acf6c0c7dcb3/blob)](https://www.credly.com/badges/74eee0e9-b078-45ef-8fdd-8e3ccd112c3d)
+[![Juniper Networks Certified Associate, Design (JNCIA-Design)](https://images.credly.com/size/80x80/images/9f9b4c06-9f83-4dc0-ace7-7cfc2927816d/blob)](https://www.credly.com/badges/89c3eb1c-1aba-48d8-8dfa-74c23906d158)
+[![Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://images.credly.com/size/80x80/images/a1b32a3b-e472-4f75-9898-e69435c132ea/blob)](https://www.credly.com/badges/62399ff7-8234-4a8f-a699-333517f6ede6)
 <!--END_SECTION:badges-->
 
 </details>
